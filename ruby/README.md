@@ -7,13 +7,13 @@
 - [Setting up a Development Environment][dev-setup]
   - Complete Phases 0 & 1
 
-[dev-setup]: https://github.com/appacademy/curriculum/tree/master/course/readings/dev-setup.md
+[dev-setup]: https://github.com/JDMB123/curriculum/tree/master/course/readings/dev-setup.md
 
 ## w1d1
 
 * [First Day! **Read me!**][day1-instructions]
 
-[day1-instructions]: https://github.com/appacademy/meta/blob/master/first-day-instructions/README.md
+[day1-instructions]: https://github.com/JDMB123/curriculum/tree/master/first-day-instructions/README.md
 
 ### Materials (80 min)
 * :book: [Nontechnical Overview of Ruby][ruby-nontech] (15 min)
@@ -23,14 +23,14 @@
   * [the pry REPL and the byebug debugger][pry-and-byebug] (20 min)
   * [common error messages][common-error-messages] (15 min)
 
-[pry-and-byebug]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/debugger.md
-[common-error-messages]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/common-exceptions.md
+[pry-and-byebug]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/debugger.md
+[common-error-messages]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/common-exceptions.md
 
 ### Additional Resources
 
 * More byebug commands: [`display` and `where`][bonus-byebug]
 
-[bonus-byebug]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/bonus-debugger.md
+[bonus-byebug]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/bonus-debugger.md
 
 ### Projects
 
@@ -40,9 +40,9 @@
 * **Bonus**: Use Ruby to solve the [eight-queens problem][eight-queens]
 * **Bonus**: Work through as many [Project Euler][project-euler] problems as you can
 
-[enumerables-project]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/enumerables
-[ghost-project]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/ghost
-[maze-project]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/maze_solver
+[enumerables-project]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/enumerables
+[ghost-project]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/ghost
+[maze-project]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/maze_solver
 [eight-queens]: http://en.wikipedia.org/wiki/Eight_queens_puzzle
 [project-euler]: https://projecteuler.net/problems
 
@@ -72,18 +72,18 @@
 
 [references-video]: https://vimeo.com/165965713
 [speed-control]: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
-[references]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/references.md
-[array-hash-defaults]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/array-hash-defaults.md
-[scope]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/scope.md
-[code-smells]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/refactoring.md
-[html-css-overview]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/overview.md
-[html-intro]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/introduction.md
+[references]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/references.md
+[array-hash-defaults]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/array-hash-defaults.md
+[scope]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/scope.md
+[code-smells]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/refactoring.md
+[html-css-overview]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/overview.md
+[html-intro]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/introduction.md
 
 ### Additional Resources
 
 * [VS Code Cheat Sheet][vscode-cheatsheet]
 
-[vscode-cheatsheet]: https://github.com/appacademy/curriculum/tree/master/course/readings/vscode_cheatsheet.md
+[vscode-cheatsheet]: https://github.com/JDMB123/curriculum/tree/master/course/readings/vscode_cheatsheet.md
 
 ### Projects
 
@@ -93,9 +93,9 @@
 * **Bonus**: [Maze solver][maze-project]
 * **Bonus**: Use Ruby to solve the [eight-queens problem][eight-queens]
 
-[html-intro-exercise]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/html-introduction/
-[memory-project]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/memory
-[sudoku-project]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/sudoku
+[html-intro-exercise]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/html-introduction/
+[memory-project]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/memory
+[sudoku-project]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/sudoku
 
 ## w1d3
 
@@ -121,13 +121,13 @@
 [stack-overflow-video]: https://vimeo.com/162569479
 [stack-overflow-demo-video]: https://vimeo.com/162569490
 [the-stack-video]: https://vimeo.com/162571286
-[recursion]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/recursion.md
-[html-containers]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/containers.md
+[recursion]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/recursion.md
+[html-containers]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/containers.md
 
 ### Homeworks (50 min)
 * [Recursion][recursion-homework] (50 min)
 
-[recursion-homework]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/recursion
+[recursion-homework]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/recursion
 
 ### Projects
 * [Containers HTML Exercise][html-containers-exercise]
@@ -137,10 +137,10 @@
 * **Bonus**: [Maze solver][maze-project]
 * **Bonus**: Use Ruby to solve the [eight-queens problem][eight-queens]
 
-[html-containers-exercise]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/html-containers/
-[recursion-project]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/recursion
+[html-containers-exercise]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/html-containers/
+[recursion-project]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/recursion
 [word-chains]:  projects/word_chains
-[bonus-recursion-practice]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/more_recursion_exercises
+[bonus-recursion-practice]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/more_recursion_exercises
 
 ## w1d4
 
@@ -163,19 +163,19 @@
 [git-mental-models-video]: https://vimeo.com/171666455
 [git-useful-commands-video]: https://vimeo.com/171666453
 [git-wrapup-video]: https://vimeo.com/171666456
-[why-git]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/why-git.md
-[git-workflow]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/git-workflow.md
+[why-git]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/why-git.md
+[git-workflow]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/git-workflow.md
 [example-github-account]: https://github.com/aA-repo-examples
-[gems]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/gems-and-rbenv.md
-[git-nontech]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/git_nontech.md
-[agile-nontech]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/agile_nontech.md
-[html-forms]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/forms.md
+[gems]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/gems-and-rbenv.md
+[git-nontech]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/git_nontech.md
+[agile-nontech]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/agile_nontech.md
+[html-forms]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/forms.md
 
 ### Homeworks (20 min)
 
 * [Git Workflow Exercises][git-workflow-exercises] (20 min)
 
-[git-workflow-exercises]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/git-workflow-exercises.md
+[git-workflow-exercises]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/git-workflow-exercises.md
 
 ### Additional Resources
 
@@ -187,12 +187,12 @@
 * [Fixing Git commit authorship][git-fix-authorship]
 * [Git Cheatsheet][git-cheatsheet]
 
-[serialization]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/serialization.md
-[git-add]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/git-add.md
-[git-cleanup]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/git-repository-cleanup.md
-[aliases]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/alias.md
+[serialization]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/serialization.md
+[git-add]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/git-add.md
+[git-cleanup]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/git-repository-cleanup.md
+[aliases]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/alias.md
 [code-academy-git]: https://www.codecademy.com/learn/learn-git
-[git-fix-authorship]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/git-fix-authorship.md
+[git-fix-authorship]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/git-fix-authorship.md
 [git-cheatsheet]: https://education.github.com/git-cheat-sheet-education.pdf
 
 ### Assessment01 Practice (We will be taking it in class)
@@ -201,7 +201,7 @@
   *  Please bring your own machine if possible. **(SF ONLY)**
 * [Practice][assessment-prep-1]
 
-[assessment-prep-1]: https://github.com/appacademy/assessment-prep#assessment-1
+[assessment-prep-1]: https://github.com/JDMB123/assessment-prep#assessment-1
 
 ### Projects
 
@@ -209,9 +209,9 @@
 * [Screwedoku][screwedoku]
 * [Minesweeper][minesweeper]
 
-[html-forms-exercise]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/html-forms/
-[screwedoku]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/screwdoku
-[minesweeper]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/minesweeper
+[html-forms-exercise]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/html-forms/
+[screwedoku]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/screwdoku
+[minesweeper]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/minesweeper
 
 ## w1d5
 
@@ -226,7 +226,7 @@
 [data-structures-video]: https://vimeo.com/162763729
 [dfs-video]: https://vimeo.com/162763740
 [intro-algorithms-and-data-structures]: ./readings/intro-algorithms-and-data-structures.md
-[html-head]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/head_section.md
+[html-head]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/head_section.md
 
 ### Homeworks (55 min)
 
@@ -234,8 +234,8 @@
   * **NB:** Do initial setup, then come back after completing **DIY ADTs**
 * [DIY ADTs][diy-adts] (45 min)
 
-[git-homeworks]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/git-homeworks.md
-[diy-adts]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/abstract_data_types
+[git-homeworks]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/git-homeworks.md
+[diy-adts]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/abstract_data_types
 
 ### Projects
 
@@ -244,10 +244,10 @@
 * [Knight's Travails][knights-travails]
 * [Tic-Tac-Toe AI][tic-tac-toe-ai]
 
-[html-head-exercise]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/html-head_section/
-[poly-tree-node]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/poly_tree_node
-[knights-travails]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/knights_travails
-[tic-tac-toe-ai]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/tic_tac_toe_ai
+[html-head-exercise]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/html-head_section/
+[poly-tree-node]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/poly_tree_node
+[knights-travails]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/knights_travails
+[tic-tac-toe-ai]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/tic_tac_toe_ai
 
 ### :joy_cat: **Happy Hour at App Academy** :joy_cat:
 
@@ -271,19 +271,19 @@
 * :book: [Singleton][singleton] (2 min)
   * Just the section on usage
 
-[inheritance]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/inheritance.md
-[errors]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/errors.md
-[object-decomposition]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/object-decomposition.md
-[inheritance-design]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/inheritance-design.md
-[hiding]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/hiding.md
-[uml]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/uml.md
+[inheritance]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/inheritance.md
+[errors]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/errors.md
+[object-decomposition]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/object-decomposition.md
+[inheritance-design]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/inheritance-design.md
+[hiding]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/hiding.md
+[uml]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/uml.md
 [singleton]: http://ruby-doc.org/stdlib-1.9.3/libdoc/singleton/rdoc/Singleton.html#module-Singleton-label-Usage
 
 ### Homeworks (45 min)
 
 * [Simon][simon] (45 min)
 
-[simon]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/simon
+[simon]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/simon
 
 ### Culture
 
@@ -310,9 +310,9 @@
 * [Chess][chess]
   * Please read the project description the night before.
 
-[errors-exercises]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/error_handling_funtime
-[inheritance-exercises]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/class_inheritance
-[chess]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/chess
+[errors-exercises]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/error_handling_funtime
+[inheritance-exercises]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/class_inheritance
+[chess]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/chess
 
 ## w2d2
 
@@ -326,8 +326,8 @@
 * :movie_camera: [CSS Intro][css-intro] (8 min)
 * :movie_camera: [CSS Workflow][css-workflow] (12 min)
 
-[css-nontech]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/css_nontech.md
-[ruby-nontech]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/ruby_nontech.md
+[css-nontech]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/css_nontech.md
+[ruby-nontech]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/ruby_nontech.md
 [css-intro]: https://vimeo.com/151188850
 [css-workflow]: https://vimeo.com/168826664
 
@@ -335,7 +335,7 @@
 
 * [Mancala][mancala-hw] (60 min)
 
-[mancala-hw]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/mancala
+[mancala-hw]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/mancala
 
 ### Study Hall 9 - 10am
 
@@ -346,7 +346,7 @@
 * [Hack Academy][css-hack-academy]
 * Continue [Chess][chess]
 
-[css-hack-academy]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/css_intro/
+[css-hack-academy]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/css_intro/
 
 ## w2d3
 
@@ -364,22 +364,22 @@
 * :book: [CSS Selectors & Precendence][css-selectors-precedence] (7 min)
 * :movie_camera: [CSS Syntax][css-syntax] (13 min)
 
-[rspec-syntax]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/rspec-syntax.md
-[subject-and-let]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/subject-and-let.md
-[rspec-order]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/rspec-order.md
-[test-doubles]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/test-doubles.md
+[rspec-syntax]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/rspec-syntax.md
+[subject-and-let]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/subject-and-let.md
+[rspec-order]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/rspec-order.md
+[test-doubles]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/test-doubles.md
 [intro-rspec-video]: https://vimeo.com/192497364
 [rspec-setup-syntax]: https://vimeo.com/192665133
 [rspec-more-syntax]: https://vimeo.com/192662950
 [rspec-demo]: https://vimeo.com/192666370
-[css-selectors-precedence]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/css_selectors_precedence.md
+[css-selectors-precedence]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/css_selectors_precedence.md
 [css-syntax]: https://vimeo.com/151185331
 
 ### Homeworks (40 min)
 
 * [RSpec][rspec-homework] (40 min)
 
-[rspec-homework]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/rspec
+[rspec-homework]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/rspec
 
 ### Additional Resources
 
@@ -389,11 +389,11 @@
 * review spec files for A00 and A01 [assessment-prep][assessment-prep]
 * review spec files for [OO Robot RSpec Example][robot-demo]
 
-[intro-rspec]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/intro-rspec.md
-[intro-tdd]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/intro-tdd.md
-[guard-rspec]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/guard-rspec.md
-[assessment-prep]: https://github.com/appacademy/assessment-prep
-[robot-demo]: https://github.com/appacademy/curriculum/tree/master/ruby/demos/robot-rspec-demo
+[intro-rspec]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/intro-rspec.md
+[intro-tdd]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/intro-tdd.md
+[guard-rspec]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/guard-rspec.md
+[assessment-prep]: https://github.com/JDMB123/assessment-prep
+[robot-demo]: https://github.com/JDMB123/curriculum/tree/master/ruby/demos/robot-rspec-demo
 
 ### Projects
 
@@ -401,9 +401,9 @@
 * [First TDD Projects][first-tdd-projects]
 * [Poker][poker-project]
 
-[first-tdd-projects]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/first_tdd
-[poker-project]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/poker
-[css-syntax-exercise]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/css_syntax/
+[first-tdd-projects]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/first_tdd
+[poker-project]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/poker
+[css-syntax-exercise]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/css_syntax/
 
 ## w2d4
 
@@ -426,15 +426,15 @@
 [big-O-classifications]: https://vimeo.com/175568501
 [big-O-set]: https://vimeo.com/175568481
 [big-O-space]: https://vimeo.com/175565092
-[css-advanced-selectors]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/advanced_selectors.md
+[css-advanced-selectors]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/advanced_selectors.md
 
 ### Homeworks (40 min)
 
 * [Sorting Complexity][sorting-demo] (15 min)
 * [Octopus Problems][octopus-hw] (25 min)
 
-[sorting-demo]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/sorting_demo
-[octopus-hw]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/big_octopus
+[sorting-demo]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/sorting_demo
+[octopus-hw]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/big_octopus
 
 ### Additional Resources
 
@@ -457,7 +457,7 @@
   *  Please bring your own machine if possible. **(SF ONLY)**
 * [Practice][assessment-prep-2]
 
-[assessment-prep-2]: https://github.com/appacademy/assessment-prep#assessment-2
+[assessment-prep-2]: https://github.com/JDMB123/assessment-prep#assessment-2
 
 ### Projects
 
@@ -468,12 +468,12 @@
 * [Windowed max range][max-windowed-range]
 * **Bonus**: [Benchmarking][benchmarking]
 
-[css-advanced-selectors-exercise]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/advanced_selectors/
-[execution-time]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/execution_time_differences
-[anagrams]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/anagrams
-[two-sum]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/two_sum
-[max-windowed-range]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/max_windowed_range
-[benchmarking]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/benchmarking
+[css-advanced-selectors-exercise]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/advanced_selectors/
+[execution-time]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/execution_time_differences
+[anagrams]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/anagrams
+[two-sum]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/two_sum
+[max-windowed-range]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/max_windowed_range
+[benchmarking]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/benchmarking
 
 ## w2d5
 
@@ -500,15 +500,15 @@
 [hash-map-reading]: http://www.gotealeaf.com/blog/how-the-hash-works-in-ruby
 [lru-cache-reading]: https://web.archive.org/web/20150710185255/http://mcicpc.cs.atu.edu/archives/2012/mcpc2012/lru/lru.html
 [dynamic-array-reading]: https://en.wikipedia.org/wiki/Dynamic_array
-[xor]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/xor.md
+[xor]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/xor.md
 [css-box-model-video]: https://vimeo.com/151190177
-[css-box-model]: https://github.com/appacademy/curriculum/tree/master/html-css/readings/box_model.md
+[css-box-model]: https://github.com/JDMB123/curriculum/tree/master/html-css/readings/box_model.md
 
 ### Homeworks (30 min)
 
 * [LRU Cache][lru-cache-hw] (30 min)
 
-[lru-cache-hw]: https://github.com/appacademy/curriculum/tree/master/ruby/homeworks/lru_cache
+[lru-cache-hw]: https://github.com/JDMB123/curriculum/tree/master/ruby/homeworks/lru_cache
 
 ### Study Hall 9 - 10am (NY Only)
 
@@ -517,8 +517,8 @@
 * [CSS Box Model Exercise][css-box-model-exercise]
 * [Hash Map & LRU Cache][hash-map]
 
-[hash-map]: https://github.com/appacademy/curriculum/tree/master/ruby/projects/hash_map_lru_cache
-[css-box-model-exercise]: https://github.com/appacademy/curriculum/tree/master/html-css/micro-projects/box_model/
+[hash-map]: https://github.com/JDMB123/curriculum/tree/master/ruby/projects/hash_map_lru_cache
+[css-box-model-exercise]: https://github.com/JDMB123/curriculum/tree/master/html-css/micro-projects/box_model/
 
 ## Additional Topics
 
@@ -531,9 +531,9 @@
 * [Swap][swap]
 
 [cursor-demo]: https://github.com/rglassett/ruby-cursor-game
-[modules]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/modules.md
-[require]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/require.md
-[privacy]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/privacy.md
-[how-rspec-works]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/how-rspec-works.md
-[hash-and-equals]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/hash-and-equals.md
-[swap]: https://github.com/appacademy/curriculum/tree/master/ruby/readings/swap.md
+[modules]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/modules.md
+[require]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/require.md
+[privacy]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/privacy.md
+[how-rspec-works]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/how-rspec-works.md
+[hash-and-equals]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/hash-and-equals.md
+[swap]: https://github.com/JDMB123/curriculum/tree/master/ruby/readings/swap.md
