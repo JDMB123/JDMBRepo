@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Username:</b>
+  <%= @user.username %>
+</p>
+
+<p>
+  <b>Password:</b>
+  <%= @user.password %>
+</p>
+
+
+<a href="<%= edit_user_path(@user) %>">Edit</a> |
+<a href="<%= users_path %>">Back</a>

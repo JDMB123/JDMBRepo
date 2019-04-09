@@ -1,0 +1,18 @@
+<h1>Books</h1>
+
+<ul>
+  <% @books.each do |book| %>
+    <li><%= book.title %> by <%= book.author %></li>
+    <form action="<%= book_url(book) %>" method="post">
+      <input
+        type="hidden"
+        name="authenticity_token"
+        value="<%= form_authenticity_token %>">
+      <input type="hidden" name="_method" value="delete">
+      <input type="submit" value="delete">
+    </form>
+    <br>
+  <% end %>
+</ul>
+
+<a href="/books/new">Add a book</a>
